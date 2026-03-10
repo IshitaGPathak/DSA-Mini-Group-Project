@@ -193,5 +193,5 @@ java -cp src Main
 
 ---
 
-*Repository created and maintained by Ishita Pathak (1012411228)*  
+ 
 *Data Structures 2 Mini Project — DES Pune University*
